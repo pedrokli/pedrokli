@@ -2,7 +2,7 @@
 - 
 - 👋 Hi, I’m @pedrokli
 - 👀 I’m interested in Dev
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and Git
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
