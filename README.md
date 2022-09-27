@@ -1,10 +1,12 @@
-- print("Hello World")
+- System.out.println("Hello World")
 - 
-- 👋 Hi, I’m @pedrokli
-- 👀 I’m interested in Dev
-- 🌱 I’m currently learning Python and Git
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Oi, meu nome é Pedro Klimaits;
+- 👀 Estou interessado em Dev Java Jr;
+- 🌱 Atualmente estou aprendendo Java, Spring Boot e Oracle;
+
+- 👋 Hi, I'm Pedro Klimaitis;
+- 👀 I'm interested in Dev Java Jr;
+- 🌱 For now I'm learning Java, Spring Boot e Oracle;
 
 <!---
 pedrokli/pedrokli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
