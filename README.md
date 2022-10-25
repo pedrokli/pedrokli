@@ -1,6 +1,6 @@
  - 👋 Hi, I'm Pedro Klimaitis;
-- 👀 I'm interested in Dev Java Jr;
-- 🌱 For now I'm learning Java, Spring Boot e Oracle;
+- 👀 I'm interested in Flutter;
+- 🌱 For now I'm learning Dart;
 
 <!---
 pedrokli/pedrokli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
