@@ -1,8 +1,6 @@
                                                 ✨ Seja muito bem vindo(a) ao meu Github. ✨
 
-<div class="tenor-gif-embed" data-postid="13289592" data-share-method="host" data-aspect-ratio="0.897778" data-width="100%"><a href="https://tenor.com/view/kirby-pepe-jam-dance-music-dancing-gif-13289592">Kirby Pepe Jam Sticker</a>from <a href="https://tenor.com/search/kirby-stickers">Kirby Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
-
+<div class="tenor-gif-embed" data-postid="13655998" data-share-method="host" data-aspect-ratio="0.8" data-width="100%"><a href="https://tenor.com/view/business-cat-working-cat-boss-angry-gif-13655998">Business Cat Working GIF</a>from <a href="https://tenor.com/search/business+cat-gifs">Business Cat GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 ---
 
 - 👋 Olá Dev, pode me chamar de Pedro!
