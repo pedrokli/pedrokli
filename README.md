@@ -1,6 +1,5 @@
                                                 ✨ Seja muito bem vindo(a) ao meu Github. ✨
 
-<div class="tenor-gif-embed" data-postid="13655998" data-share-method="host" data-aspect-ratio="0.8" data-width="100%"><a href="https://tenor.com/view/business-cat-working-cat-boss-angry-gif-13655998">Business Cat Working GIF</a>from <a href="https://tenor.com/search/business+cat-gifs">Business Cat GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 ---
 
 - 👋 Olá Dev, pode me chamar de Pedro!
