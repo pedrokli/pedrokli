@@ -1,6 +1,18 @@
- - 👋 Hi, I'm Pedro Klimaitis;
-- 👀 I'm interested in Flutter;
-- 🌱 For now I'm learning Dart;
+✨ Seja muito bem vindo(a) ao meu Github. ✨
+
+- 👋 Olá, pode me chamar de Pedro!
+
+- Atualmente tenho desenvolvido projetos em Flutter 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+          
+- Aqui estão aglumas linguagens que eu sei:
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
+- <i class="devicon-javascript-plain colored"></i>
+          
+          
+                 
 
 <!---
 pedrokli/pedrokli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
