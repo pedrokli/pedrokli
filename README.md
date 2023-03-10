@@ -1,4 +1,5 @@
-                                                            ✨ Seja muito bem vindo(a) ao meu Github. ✨
+                                                        ✨ Seja muito bem vindo(a) ao meu Github. ✨
+---
 
 - 👋 Olá Dev, pode me chamar de Pedro!
 - 😄 Pronomes: Ele/Dele.
