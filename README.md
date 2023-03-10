@@ -9,7 +9,7 @@
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
-- <i class="devicon-javascript-plain colored"></i>
+- <i font-size =12 class="devicon-javascript-plain colored"></i>
           
           
                  
