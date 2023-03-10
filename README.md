@@ -3,7 +3,7 @@
 - 👋 Olá, pode me chamar de Pedro!
 
 - Atualmente tenho desenvolvido projetos em Flutter 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/>
           
 - Aqui estão aglumas linguagens que eu sei:
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/>
