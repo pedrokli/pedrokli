@@ -11,6 +11,10 @@
 - 🖥 Tecnologias e ferramentas:
 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" height="40"/>
+    
+# 😺 Minha história:
+
+Tenho 27 anos e busco inserção no mercado de trabalho de tecnologia. Sou uma pessoa bem comunicativa que gosta de trabalhar em equipe e acredito que a melhor forma de aprender é a colocando a mão na massa. Comecei a estudar programação através do python e Java e com o decorrer do tempo fui aproveitando as outras oportunidades para aprender diferentes frameworks como por exemplo Flutter.
               
           
           
