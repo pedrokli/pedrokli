@@ -6,6 +6,7 @@
 - 😄 Pronomes: Ele/Dele.
 
 - 👨‍🎓 Cursando Análise e Desenvolvimento de Sistemas na FIAP.
+-🌱 Atualmente estou aperfeiçoando JavaScript, HMTL e CSS.
 
           
 - 🖥 Tecnologias e ferramentas:
