@@ -3,7 +3,6 @@
 ---
 
 - 👋 Olá Dev, pode me chamar de Pedro!
-- 😄 Pronomes: Ele/Dele.
 
 - 👨‍🎓 Cursando Análise e Desenvolvimento de Sistemas na FIAP.
 - 🌱 Atualmente estou aperfeiçoando JavaScript, HMTL e CSS.
