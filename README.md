@@ -14,7 +14,7 @@
     
 # 😺 Minha história:
 
-Tenho 27 anos e busco inserção no mercado de trabalho de tecnologia. Sou uma pessoa bem comunicativa que gosta de trabalhar em equipe e acredito que a melhor forma de aprender é a colocando a mão na massa. Comecei a estudar programação através do python e Java e com o decorrer do tempo fui aproveitando as outras oportunidades para aprender diferentes frameworks como por exemplo Flutter.
+Atualmente busco inserção no mercado de trabalho de tecnologia. Sou uma pessoa bem comunicativa que gosta de trabalhar em equipe e acredito que a melhor forma de aprender é a colocando a mão na massa. Comecei a estudar programação através do python e Java e com o decorrer do tempo fui aproveitando as outras oportunidades para aprender diferentes frameworks como por exemplo Flutter.
               
           
           
