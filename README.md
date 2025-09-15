@@ -4,21 +4,19 @@
 
 - 👋 Olá Dev, pode me chamar de Pedro!
 
-- 👨‍🎓 Cursando Análise e Desenvolvimento de Sistemas na FIAP.
-- 🌱 Atualmente estou aperfeiçoando Algoritmo, Java e SQL.
+- 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas na FIAP.
+- 🌱 Atualmente estou aperfeiçoando Adobe Experience Plataform, CDP e Cloud.
 
           
 - 🖥 Tecnologias e ferramentas:
   <div class="icon">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="40" height="40"/>      
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" height="40"/>
   </div>
@@ -29,9 +27,10 @@
     
           
     
-## 😺 Minha história:
+## Adobe DX: Career Path to Cloud Architecture
 
-  Atualmente busco inserção no mercado de trabalho de tecnologia. Sou uma pessoa bem comunicativa que gosta de trabalhar em equipe e acredito que a melhor forma de aprender é a colocando a mão na massa. Comecei a estudar programação através do python e Java e com o decorrer do tempo fui aproveitando as outras oportunidades para aprender diferentes frameworks como por exemplo Flutter.
+Profissional com expertise em Adobe Digital Experience, concentrando-me no Adobe Target para driving resultados de negócio através de personalização e testes. 
+Atuo desde a coleta de dados (Data Collection) até sua ativação na Adobe Experience Platform (AEP). Busco agora canalizar essa bagagem técnica para me especializar em Arquitetura e Cloud, com o objetivo de projetar e implementar soluções end-to-end robustas no ecossistema Adobe.
               
           
           
@@ -42,14 +41,9 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ---
-
-<div>
-<a href="https://github.com/pedrokli">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrokli&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrokli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
-    
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrokli&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight)
 <div>
 <a href="https://instagram.com/pedro.kli" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:pedro.klimaitis@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
