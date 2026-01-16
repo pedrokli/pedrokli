@@ -8,7 +8,7 @@
     - Designing scalable and secure cloud solutions
     - Hands-on experience with EC2, Lambda, S3, RDS, DynamoDB, API Gateway, SQS, SNS
     - Event-driven architectures using Java, Spring Boot, and AWS services
-    - 
+      
 - 🌱 Goal:
   To work as a Cloud Architect or AWS Solutions Engineer, designing and implementing robust, end-to-end cloud solutions
 
