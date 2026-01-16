@@ -1,40 +1,24 @@
-                                                ✨ Seja muito bem vindo(a) ao meu Github. ✨
+                                                ✨ Welcome to my GitHub profile! ✨
 
 ---
 
-- 👋 Olá Dev, pode me chamar de Pedro!
+- 👋 Hello, I’m Pedro — a developer transitioning into AWS Cloud Architecture, with a background in Systems Analysis and Development from FIAP.
 
-- 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas na FIAP.
-- 🌱 Atualmente estou aperfeiçoando Adobe Experience Plataform, CDP e Cloud.
+- 👨‍🎓 Currently specializing in AWS through certified courses, focusing on:
+    - Designing scalable and secure cloud solutions
+    - Hands-on experience with EC2, Lambda, S3, RDS, DynamoDB, API Gateway, SQS, SNS
+    - Event-driven architectures using Java, Spring Boot, and AWS services
+    - 
+- 🌱 Goal:
+  To work as a Cloud Architect or AWS Solutions Engineer, designing and implementing robust, end-to-end cloud solutions
 
           
-- 🖥 Tecnologias e ferramentas:
-  <div class="icon">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" height="40"/>
-    <img src="https://icongr.am/devicon/amazonwebservices-original.svg?size=40&color=currentColor" width="40" height="40"/>
-    <img src="https://icongr.am/devicon/docker-original.svg?size=128&color=currentColor" width="40" height="40"/>
+- 🖥 Current tech stack:
+  AWS, Java, Spring Boot, Docker, Git, Linux, SQL, NoSQL, Event-Driven Architecture, IaC (learning Terraform/CloudFormation)
     
 
-
-
-  </div>
-          
-          
-          
-          
-    
-          
-    
-## Adobe DX: Career Path to Cloud Architecture
-
-Profissional com expertise em Adobe Digital Experience, concentrando-me no Adobe Target para driving resultados de negócio através de personalização e testes. 
-Atuo desde a coleta de dados (Data Collection) até sua ativação na Adobe Experience Platform (AEP). Busco agora canalizar essa bagagem técnica para me especializar em Arquitetura e Cloud utilizando os serviços da Amazon (AWS), com o objetivo de projetar e implementar soluções end-to-end robustas.
+My previous experience with Adobe Experience Platform (AEP) and data collection has given me a strong foundation in system integration and data activation, which I now apply in a cloud-native context.
               
-          
-          
                  
 <!---
 pedrokli/pedrokli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
