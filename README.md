@@ -19,7 +19,7 @@
   - Always a student: The cloud landscape evolves daily; continuous learning isn't an option, it's the core of the craft.
     
 - 🖥 Current tech stack:
-  AWS, Java, Spring Boot, Docker, Git, Linux, SQL, NoSQL, Event-Driven Architecture, IaC (learning Terraform/CloudFormation)
+  - AWS, Java, Spring Boot, Docker, Git, Linux, SQL, NoSQL, Event-Driven Architecture, IaC (learning Terraform/CloudFormation)
     
 
 My previous experience with Adobe Experience Platform (AEP) and data collection has given me a strong foundation in system integration and data activation, which I now apply in a cloud-native context.
