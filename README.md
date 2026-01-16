@@ -14,7 +14,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" height="40"/>
-    <img src="https://icongr.am/material/ab-testing.svg?size=40&color=currentColor" width="40" height="40"/>
     <img src="https://icongr.am/devicon/amazonwebservices-original.svg?size=40&color=currentColor" width="40" height="40"/>
 
 
