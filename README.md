@@ -12,7 +12,12 @@
 - 🌱 Goal:
   To work as a Cloud Architect or AWS Solutions Engineer, designing and implementing robust, end-to-end cloud solutions
 
-          
+- 🧠 Development Principles:
+  - Build with purpose: I focus on scalable, maintainable solutions that deliver real business value.
+  - Execution over perfection: I believe in iterative development, feedback loops, and shipping to learn.
+  - Open Source by default: I actively learn from and contribute to the community, believing collaborative knowledge drives better engineering.
+  - Always a student: The cloud landscape evolves daily; continuous learning isn't an option, it's the core of the craft.
+    
 - 🖥 Current tech stack:
   AWS, Java, Spring Boot, Docker, Git, Linux, SQL, NoSQL, Event-Driven Architecture, IaC (learning Terraform/CloudFormation)
     
