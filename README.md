@@ -31,7 +31,7 @@
 ## Adobe DX: Career Path to Cloud Architecture
 
 Profissional com expertise em Adobe Digital Experience, concentrando-me no Adobe Target para driving resultados de negócio através de personalização e testes. 
-Atuo desde a coleta de dados (Data Collection) até sua ativação na Adobe Experience Platform (AEP). Busco agora canalizar essa bagagem técnica para me especializar em Arquitetura e Cloud, com o objetivo de projetar e implementar soluções end-to-end robustas no ecossistema Adobe.
+Atuo desde a coleta de dados (Data Collection) até sua ativação na Adobe Experience Platform (AEP). Busco agora canalizar essa bagagem técnica para me especializar em Arquitetura e Cloud utilizando os serviços da Amazon (AWS), com o objetivo de projetar e implementar soluções end-to-end robustas.
               
           
           
