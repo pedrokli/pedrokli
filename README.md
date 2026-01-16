@@ -15,6 +15,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" height="40"/>
     <img src="https://icongr.am/devicon/amazonwebservices-original.svg?size=40&color=currentColor" width="40" height="40"/>
+    <img src="https://icongr.am/devicon/docker-original.svg?size=128&color=currentColor" width="40" height="40"/>
+    
 
 
 
