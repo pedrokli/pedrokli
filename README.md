@@ -23,7 +23,10 @@
     
 
 My previous experience with Adobe Experience Platform (AEP) and data collection has given me a strong foundation in system integration and data activation, which I now apply in a cloud-native context.
-              
+
+[![Pedrokli's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrokli)](https://github.com/pedrokli/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrokli&layout=donut)](https://github.com/pedrokli/github-readme-stats)
+
                  
 <!---
 pedrokli/pedrokli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
