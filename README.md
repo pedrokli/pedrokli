@@ -44,9 +44,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ---
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrokli&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrokli&layout=compact&theme=tokyonight)
 <div>
 <a href="https://instagram.com/pedro.kli" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:pedro.klimaitis@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
