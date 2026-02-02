@@ -1,29 +1,42 @@
-                                                ✨ Welcome to my GitHub profile! ✨
+                                                ✨ Seja muito bem vindo(a) ao meu Github. ✨
 
 ---
 
-- 👋 Hello, I’m Pedro — a developer transitioning into AWS Cloud Architecture, with a background in Systems Analysis and Development from FIAP.
+- 👋 Olá Dev, pode me chamar de Pedro!
 
-- 👨‍🎓 Currently specializing in AWS through certified courses, focusing on:
-    - Designing scalable and secure cloud solutions
-    - Hands-on experience with EC2, Lambda, S3, RDS, DynamoDB, API Gateway, SQS, SNS
-    - Event-driven architectures using Java, Spring Boot, and AWS services
-      
-- 🌱 Goal:
-  To work as a Cloud Architect or AWS Solutions Engineer, designing and implementing robust, end-to-end cloud solutions
+- 👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas na FIAP.
+- 🌱 Atualmente estou aperfeiçoando Adobe Experience Plataform, CDP e Cloud.
 
-- 🧠 Development Principles:
-  - Build with purpose: I focus on scalable, maintainable solutions that deliver real business value.
-  - Execution over perfection: I believe in iterative development, feedback loops, and shipping to learn.
-  - Open Source by default: I actively learn from and contribute to the community, believing collaborative knowledge drives better engineering.
-  - Always a student: The cloud landscape evolves daily; continuous learning isn't an option, it's the core of the craft.
+          
+- 🖥 Tecnologias e ferramentas:
+  <div class="icon">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="40" height="40"/>      
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" height="40"/>
+    <img src="https://icongr.am/material/ab-testing.svg?size=40&color=currentColor" width="40" height="40"/>
+
+
+  </div>
+          
+          
+          
+          
     
-- 🖥 Current tech stack:
-  - AWS, Java, Spring Boot, Docker, Git, Linux, SQL, NoSQL, Event-Driven Architecture, IaC (learning Terraform/CloudFormation)
+          
     
+## Adobe DX: Career Path to Cloud Architecture
 
-My previous experience with Adobe Experience Platform (AEP) and data collection has given me a strong foundation in system integration and data activation, which I now apply in a cloud-native context.
-
+Profissional com expertise em Adobe Digital Experience, concentrando-me no Adobe Target para driving resultados de negócio através de personalização e testes. 
+Atuo desde a coleta de dados (Data Collection) até sua ativação na Adobe Experience Platform (AEP). Busco agora canalizar essa bagagem técnica para me especializar em Arquitetura e Cloud, com o objetivo de projetar e implementar soluções end-to-end robustas no ecossistema Adobe.
+              
+          
+          
                  
 <!---
 pedrokli/pedrokli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -32,9 +45,11 @@ You can click the Preview link to take a look at your changes.
 
 ---
   
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrokli&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrokli&layout=compact&theme=tokyonight)
 <div>
 <a href="https://instagram.com/pedro.kli" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:pedro.klimaitis@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/pedro-klimaitis-9b68abb9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://www.linkedin.com/in/pedrokli/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
       
